@@ -116,7 +116,7 @@ public class MST {
 				}
 			}
 		}
-		// return pred;
+
 		// calculate the sum of edge values of the minimum spanning tree
 		double score = 0.0;
 		for (int i = 0; i < pred.length; i++) {
